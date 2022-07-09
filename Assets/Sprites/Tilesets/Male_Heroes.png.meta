@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 42006f94fd4eab34d849e12e7a499a14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8399339102076001318
+    second: Male_Heroes_0
+  - first:
+      213: 8953652835774791493
+    second: Male_Heroes_1
+  - first:
+      213: 2851536067164909259
+    second: Male_Heroes_2
+  - first:
+      213: -8717151804599715013
+    second: Male_Heroes_3
+  - first:
+      213: -8202605401396936331
+    second: Male_Heroes_4
+  - first:
+      213: 4994313594930225811
+    second: Male_Heroes_5
+  - first:
+      213: -1232518171288531391
+    second: Male_Heroes_6
+  - first:
+      213: -2703574460223632363
+    second: Male_Heroes_7
+  - first:
+      213: -3518177650743492821
+    second: Male_Heroes_8
+  - first:
+      213: -982462931273444134
+    second: Male_Heroes_9
+  - first:
+      213: 983726065137789042
+    second: Male_Heroes_10
+  - first:
+      213: 5271652973933002880
+    second: Male_Heroes_11
+  - first:
+      213: -1637677206935627403
+    second: Male_Heroes_12
+  - first:
+      213: -8914653805860701554
+    second: Male_Heroes_13
+  - first:
+      213: -2235167986569109399
+    second: Male_Heroes_14
+  - first:
+      213: 7598512209245930496
+    second: Male_Heroes_15
+  - first:
+      213: 2868246304857582814
+    second: Male_Heroes_16
+  - first:
+      213: -660785528134655687
+    second: Male_Heroes_17
+  - first:
+      213: -6185941753079800348
+    second: Male_Heroes_18
+  - first:
+      213: 7869079814531947314
+    second: Male_Heroes_19
+  - first:
+      213: 8098974575902901347
+    second: Male_Heroes_20
+  - first:
+      213: 309839332021937262
+    second: Male_Heroes_21
+  - first:
+      213: 8219869628066469359
+    second: Male_Heroes_22
+  - first:
+      213: -5735256924205800567
+    second: Male_Heroes_23
+  - first:
+      213: 6451410159966802676
+    second: Male_Heroes_24
+  - first:
+      213: 3407069997932509265
+    second: Male_Heroes_25
+  - first:
+      213: -1340502280386665032
+    second: Male_Heroes_26
+  - first:
+      213: -7043318597737184956
+    second: Male_Heroes_27
+  - first:
+      213: 3991716880174266614
+    second: Male_Heroes_28
+  - first:
+      213: -5608983188978220992
+    second: Male_Heroes_29
+  - first:
+      213: 3638863835940452289
+    second: Male_Heroes_30
+  - first:
+      213: -7877722471157591110
+    second: Male_Heroes_31
+  - first:
+      213: -8757801937326092582
+    second: Male_Heroes_32
+  - first:
+      213: 8392199348021378708
+    second: Male_Heroes_33
+  - first:
+      213: -849034118136403871
+    second: Male_Heroes_34
+  - first:
+      213: -8602873070770459995
+    second: Male_Heroes_35
+  - first:
+      213: 8053177461014219542
+    second: Male_Heroes_36
+  - first:
+      213: -2263784687028226074
+    second: Male_Heroes_37
+  - first:
+      213: 6932605036916705694
+    second: Male_Heroes_38
+  - first:
+      213: -169456418922850966
+    second: Male_Heroes_39
+  - first:
+      213: 7491555504358823610
+    second: Male_Heroes_40
+  - first:
+      213: 2167103576744779829
+    second: Male_Heroes_41
+  - first:
+      213: -559359310265854489
+    second: Male_Heroes_42
+  - first:
+      213: -3363964498346518409
+    second: Male_Heroes_43
+  - first:
+      213: 3993273842748315466
+    second: Male_Heroes_44
+  - first:
+      213: -2506318427471017350
+    second: Male_Heroes_45
+  - first:
+      213: 8373580593816510682
+    second: Male_Heroes_46
+  - first:
+      213: 205163202467450449
+    second: Male_Heroes_47
+  - first:
+      213: 6811203993066992087
+    second: Male_Heroes_48
+  - first:
+      213: -5424249028799530286
+    second: Male_Heroes_49
+  - first:
+      213: -1441759905472540094
+    second: Male_Heroes_50
+  - first:
+      213: 8999016939396812866
+    second: Male_Heroes_51
+  - first:
+      213: 6669730040705775381
+    second: Male_Heroes_52
+  - first:
+      213: -5208749052122352937
+    second: Male_Heroes_53
+  - first:
+      213: -3941904394681170155
+    second: Male_Heroes_54
+  - first:
+      213: 1613908599779997412
+    second: Male_Heroes_55
+  - first:
+      213: -6020337005495386326
+    second: Male_Heroes_56
+  - first:
+      213: -6759701473151404888
+    second: Male_Heroes_57
+  - first:
+      213: 6638165101625574395
+    second: Male_Heroes_58
+  - first:
+      213: -6718843736249784218
+    second: Male_Heroes_59
+  - first:
+      213: -6239827463899032389
+    second: Male_Heroes_60
+  - first:
+      213: -5536217814598871997
+    second: Male_Heroes_61
+  - first:
+      213: -4760833281827100996
+    second: Male_Heroes_62
+  - first:
+      213: -7069988060941557970
+    second: Male_Heroes_63
+  - first:
+      213: 522840540049353416
+    second: Male_Heroes_64
+  - first:
+      213: 730586959397987947
+    second: Male_Heroes_65
+  - first:
+      213: -973957508795618674
+    second: Male_Heroes_66
+  - first:
+      213: -2294317804743916812
+    second: Male_Heroes_67
+  - first:
+      213: 9156824741650629099
+    second: Male_Heroes_68
+  - first:
+      213: 9211521458559943378
+    second: Male_Heroes_69
+  - first:
+      213: 414479550228590287
+    second: Male_Heroes_70
+  - first:
+      213: 7353818788291655636
+    second: Male_Heroes_71
+  - first:
+      213: 5323332974010588843
+    second: Male_Heroes_72
+  - first:
+      213: -1445925003673197036
+    second: Male_Heroes_73
+  - first:
+      213: -1656027176827706325
+    second: Male_Heroes_74
+  - first:
+      213: 1823822258825729685
+    second: Male_Heroes_75
+  - first:
+      213: -6500121554437904378
+    second: Male_Heroes_76
+  - first:
+      213: 8694175753840772092
+    second: Male_Heroes_77
+  - first:
+      213: -5677448955233473115
+    second: Male_Heroes_78
+  - first:
+      213: 5410941072079282713
+    second: Male_Heroes_79
+  - first:
+      213: -7965318223650752267
+    second: Male_Heroes_80
+  - first:
+      213: -289826038834466268
+    second: Male_Heroes_81
+  - first:
+      213: 3243808293067215866
+    second: Male_Heroes_82
+  - first:
+      213: 7188238592209281571
+    second: Male_Heroes_83
+  - first:
+      213: -1852452192588795946
+    second: Male_Heroes_84
+  - first:
+      213: -3796482177557803715
+    second: Male_Heroes_85
+  - first:
+      213: 3911294087551652245
+    second: Male_Heroes_86
+  - first:
+      213: 3522909990102990448
+    second: Male_Heroes_87
+  - first:
+      213: -5384885065511556184
+    second: Male_Heroes_88
+  - first:
+      213: -5082811934695254286
+    second: Male_Heroes_89
+  - first:
+      213: 6375828959366878789
+    second: Male_Heroes_90
+  - first:
+      213: -6928393324672325108
+    second: Male_Heroes_91
+  - first:
+      213: -2895353581159974405
+    second: Male_Heroes_92
+  - first:
+      213: -2890539071319215672
+    second: Male_Heroes_93
+  - first:
+      213: -335097575650482027
+    second: Male_Heroes_94
+  - first:
+      213: -8133166422473503270
+    second: Male_Heroes_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male_Heroes_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e022dd04735eee0800000000000000
+      internalID: -1232518171288531391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Heroes_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 672
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c4d824a59fa7ad0800000000000000
+      internalID: -2703574460223632363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Heroes_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 672
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f37b6111cec2fc0800000000000000
+      internalID: -3518177650743492821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Heroes_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 576
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eddb6600ce172aa0800000000000000
+      internalID: -6185941753079800348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Heroes_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 576
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b9f5e2666943d60800000000000000
+      internalID: 7869079814531947314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Heroes_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 576
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364cc917776556070800000000000000
+      internalID: 8098974575902901347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Heroes_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7fe371167df7230800000000000000
+      internalID: 3638863835940452289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Heroes_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 480
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab31a838625bca290800000000000000
+      internalID: -7877722471157591110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Heroes_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 480
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade4370f989067680800000000000000
+      internalID: -8757801937326092582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Heroes_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 384
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5dbc1cba1cc38f0800000000000000
+      internalID: -559359310265854489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Heroes_43
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 384
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778d70f9c1cc051d0800000000000000
+      internalID: -3363964498346518409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Heroes_44
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 384
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a475fd71765fa6730800000000000000
+      internalID: 3993273842748315466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

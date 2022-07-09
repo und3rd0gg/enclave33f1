@@ -1,0 +1,1046 @@
+fileFormatVersion: 2
+guid: 8b603e3b6b073cf4ab908e87645c7072
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8904480059410703594
+    second: tileset_construction_objects_mirrored_0
+  - first:
+      213: -8752524781084975407
+    second: tileset_construction_objects_mirrored_1
+  - first:
+      213: -5038297715561667005
+    second: tileset_construction_objects_mirrored_2
+  - first:
+      213: 494196195646499269
+    second: tileset_construction_objects_mirrored_3
+  - first:
+      213: 6687026990341508559
+    second: tileset_construction_objects_mirrored_4
+  - first:
+      213: -1928911746927010562
+    second: tileset_construction_objects_mirrored_5
+  - first:
+      213: -8446007754134716841
+    second: tileset_construction_objects_mirrored_6
+  - first:
+      213: 2913005164487712508
+    second: tileset_construction_objects_mirrored_7
+  - first:
+      213: -2625821400661315601
+    second: tileset_construction_objects_mirrored_8
+  - first:
+      213: 3953162582316725032
+    second: tileset_construction_objects_mirrored_9
+  - first:
+      213: -3688828113367266283
+    second: tileset_construction_objects_mirrored_10
+  - first:
+      213: -2602987899710132710
+    second: tileset_construction_objects_mirrored_11
+  - first:
+      213: 1075620457328642454
+    second: tileset_construction_objects_mirrored_12
+  - first:
+      213: -2777623629087729195
+    second: tileset_construction_objects_mirrored_13
+  - first:
+      213: -8731077162058713978
+    second: tileset_construction_objects_mirrored_14
+  - first:
+      213: -356323877650751310
+    second: tileset_construction_objects_mirrored_15
+  - first:
+      213: -2155040549044622966
+    second: tileset_construction_objects_mirrored_16
+  - first:
+      213: 3373983289278352316
+    second: tileset_construction_objects_mirrored_17
+  - first:
+      213: -6230814180906120276
+    second: tileset_construction_objects_mirrored_18
+  - first:
+      213: 8841664888301139611
+    second: tileset_construction_objects_mirrored_19
+  - first:
+      213: 3073508264721396147
+    second: tileset_construction_objects_mirrored_20
+  - first:
+      213: 5889222290924038501
+    second: tileset_construction_objects_mirrored_21
+  - first:
+      213: 4022792316811876849
+    second: tileset_construction_objects_mirrored_22
+  - first:
+      213: 6884105086709946970
+    second: tileset_construction_objects_mirrored_23
+  - first:
+      213: 6617561521671690046
+    second: tileset_construction_objects_mirrored_24
+  - first:
+      213: 3208023652544548214
+    second: tileset_construction_objects_mirrored_25
+  - first:
+      213: -6403980220314145449
+    second: tileset_construction_objects_mirrored_26
+  - first:
+      213: -3208484706846270818
+    second: tileset_construction_objects_mirrored_27
+  - first:
+      213: 5649111721377600542
+    second: tileset_construction_objects_mirrored_28
+  - first:
+      213: 3812104963772237604
+    second: tileset_construction_objects_mirrored_29
+  - first:
+      213: 6943465979729896061
+    second: tileset_construction_objects_mirrored_30
+  - first:
+      213: 8291288709418934601
+    second: tileset_construction_objects_mirrored_31
+  - first:
+      213: 1730565295775360822
+    second: tileset_construction_objects_mirrored_32
+  - first:
+      213: -8151890510229432644
+    second: tileset_construction_objects_mirrored_33
+  - first:
+      213: 9084749902397861134
+    second: tileset_construction_objects_mirrored_34
+  - first:
+      213: -1395095122874153870
+    second: tileset_construction_objects_mirrored_35
+  - first:
+      213: 8443086089033683404
+    second: tileset_construction_objects_mirrored_36
+  - first:
+      213: -6597836934561823702
+    second: tileset_construction_objects_mirrored_37
+  - first:
+      213: 18758081002748512
+    second: tileset_construction_objects_mirrored_38
+  - first:
+      213: 8771668751796450585
+    second: tileset_construction_objects_mirrored_39
+  - first:
+      213: 6032344443483339444
+    second: tileset_construction_objects_mirrored_40
+  - first:
+      213: 137686319570980146
+    second: tileset_construction_objects_mirrored_41
+  - first:
+      213: 321520636792161605
+    second: tileset_construction_objects_mirrored_42
+  - first:
+      213: -8921468380149214369
+    second: tileset_construction_objects_mirrored_43
+  - first:
+      213: -1458475619805689854
+    second: tileset_construction_objects_mirrored_44
+  - first:
+      213: -1266864473123542378
+    second: tileset_construction_objects_mirrored_45
+  - first:
+      213: -1344206273874188387
+    second: tileset_construction_objects_mirrored_46
+  - first:
+      213: -1517114762156131224
+    second: tileset_construction_objects_mirrored_47
+  - first:
+      213: 2037225335432845688
+    second: tileset_construction_objects_mirrored_48
+  - first:
+      213: -1197425677747235589
+    second: tileset_construction_objects_mirrored_49
+  - first:
+      213: -4832543839196888980
+    second: tileset_construction_objects_mirrored_50
+  - first:
+      213: -3731674040624393947
+    second: tileset_construction_objects_mirrored_51
+  - first:
+      213: 9038591879671794166
+    second: tileset_construction_objects_mirrored_52
+  - first:
+      213: 8302523829046680685
+    second: tileset_construction_objects_mirrored_53
+  - first:
+      213: -3252392567748289673
+    second: tileset_construction_objects_mirrored_54
+  - first:
+      213: -1574451960168280405
+    second: tileset_construction_objects_mirrored_55
+  - first:
+      213: 6848350096543558604
+    second: tileset_construction_objects_mirrored_56
+  - first:
+      213: 8586518234973199296
+    second: tileset_construction_objects_mirrored_57
+  - first:
+      213: -397669710899798176
+    second: tileset_construction_objects_mirrored_58
+  - first:
+      213: 2997301948906647741
+    second: tileset_construction_objects_mirrored_59
+  - first:
+      213: 6801344350839302741
+    second: tileset_construction_objects_mirrored_60
+  - first:
+      213: -7504913819557238974
+    second: tileset_construction_objects_mirrored_61
+  - first:
+      213: 2106276924823836646
+    second: tileset_construction_objects_mirrored_62
+  - first:
+      213: 5407836942475951091
+    second: tileset_construction_objects_mirrored_63
+  - first:
+      213: -7718719894043830109
+    second: tileset_construction_objects_mirrored_64
+  - first:
+      213: -8187013194507688413
+    second: tileset_construction_objects_mirrored_65
+  - first:
+      213: -5795653070107962019
+    second: tileset_construction_objects_mirrored_66
+  - first:
+      213: -8280406711785106192
+    second: tileset_construction_objects_mirrored_67
+  - first:
+      213: -4523673073902821430
+    second: tileset_construction_objects_mirrored_68
+  - first:
+      213: -2405905873846846695
+    second: tileset_construction_objects_mirrored_69
+  - first:
+      213: -6994227326710624636
+    second: tileset_construction_objects_mirrored_70
+  - first:
+      213: 2161971826577093629
+    second: tileset_construction_objects_mirrored_71
+  - first:
+      213: 153432905853588661
+    second: tileset_construction_objects_mirrored_72
+  - first:
+      213: 5887909033890116431
+    second: tileset_construction_objects_mirrored_73
+  - first:
+      213: 7662954944350635082
+    second: tileset_construction_objects_mirrored_74
+  - first:
+      213: -3610814578661970887
+    second: tileset_construction_objects_mirrored_75
+  - first:
+      213: -2495193249043546244
+    second: tileset_construction_objects_mirrored_76
+  - first:
+      213: 8355842116289844611
+    second: tileset_construction_objects_mirrored_77
+  - first:
+      213: 3089888159711456266
+    second: tileset_construction_objects_mirrored_78
+  - first:
+      213: -1256121720317246576
+    second: tileset_construction_objects_mirrored_79
+  - first:
+      213: 6039167564300580574
+    second: tileset_construction_objects_mirrored_80
+  - first:
+      213: -3941583090399932471
+    second: tileset_construction_objects_mirrored_81
+  - first:
+      213: 52346437420342163
+    second: tileset_construction_objects_mirrored_82
+  - first:
+      213: 369746333022770157
+    second: tileset_construction_objects_mirrored_83
+  - first:
+      213: -3463529479648924367
+    second: tileset_construction_objects_mirrored_84
+  - first:
+      213: -1905589611824724823
+    second: tileset_construction_objects_mirrored_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae469b2af61139b70800000000000000
+      internalID: 8904480059410703594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de50af9519c88680800000000000000
+      internalID: -8752524781084975407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e847fbee541ab0800000000000000
+      internalID: -5038297715561667005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9ebd252dcbbd600800000000000000
+      internalID: 494196195646499269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c05490066aeccc0800000000000000
+      internalID: -3688828113367266283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e2323eb4450ebd0800000000000000
+      internalID: -2602987899710132710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69987386b1f5dee00800000000000000
+      internalID: 1075620457328642454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d99e7c9606e379d0800000000000000
+      internalID: -2777623629087729195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b132fc8b7b47aa20800000000000000
+      internalID: 3073508264721396147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569e6dd9878bab150800000000000000
+      internalID: 5889222290924038501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f91eb86c44d3d730800000000000000
+      internalID: 4022792316811876849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5ec15a11498f50800000000000000
+      internalID: 6884105086709946970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d726fcf35852c5060800000000000000
+      internalID: 6943465979729896061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9416f1fe623901370800000000000000
+      internalID: 8291288709418934601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6372f43b7f3340810800000000000000
+      internalID: 1730565295775360822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb695e185caaede80800000000000000
+      internalID: -8151890510229432644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba30a48f4137b350800000000000000
+      internalID: 6032344443483339444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d85786af829e100800000000000000
+      internalID: 137686319570980146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54544ffc055467400800000000000000
+      internalID: 321520636792161605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f539356b6c3903480800000000000000
+      internalID: -8921468380149214369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60ca2f6bfa5fecb0800000000000000
+      internalID: -4832543839196888980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52159073b3e663cc0800000000000000
+      internalID: -3731674040624393947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f941911d678f6d70800000000000000
+      internalID: 9038591879671794166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c1b811f6d783370800000000000000
+      internalID: 8302523829046680685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ae2eae6aa336e50800000000000000
+      internalID: 6801344350839302741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ee53d4a039d790800000000000000
+      internalID: -7504913819557238974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e71abe14bffa3d10800000000000000
+      internalID: 2106276924823836646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb73871c0f7c0b40800000000000000
+      internalID: 5407836942475951091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e4519ad438fee90800000000000000
+      internalID: -6994227326710624636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3b781fbedd00e10800000000000000
+      internalID: 2161971826577093629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4524a3a6a112200800000000000000
+      internalID: 153432905853588661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_construction_objects_mirrored_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4375d2221e06b150800000000000000
+      internalID: 5887909033890116431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

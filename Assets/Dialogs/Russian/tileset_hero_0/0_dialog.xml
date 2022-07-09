@@ -1,0 +1,16 @@
+<dialog name="">
+  <node id="0" npcText="Привет!">
+    <answer text="Как пройти в сторону мэрии?" JumpToNode="2" />
+    <answer text="Может быть поговорим в другом месте?" JumpToNode="1" exit="True" />
+    <answer text="Мне пора идти." exit="True" />
+  </node>
+  <node id="1" npcText="Хорошо, встретимся возле реки">
+    <answer text="До встречи." exit="True" />
+  </node>
+  <node id="2" npcText="Иди в сторону башни, затем до первого поворота и налево.">
+    <answer text="Спасибо!" JumpToNode="3" />
+  </node>
+  <node id="3" npcText="Удачи">
+    <answer text="ок" exit="True" />
+  </node>
+</dialog>
