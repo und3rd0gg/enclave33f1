@@ -29,6 +29,9 @@
 # Visual Studio cache directory
 .vs/
 
+# Project Version Folder
+/ProjectSettings/ProjectVersion.txt
+
 # Gradle cache directory
 .gradle/
 
