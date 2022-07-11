@@ -1,9 +1,0 @@
-<dialog name="">
-  <node id="0" npcText="Привект">
-    <answer text="Пока" exit="True" />
-    <answer text="Иди нах" JumpToNode="2" />
-    <answer text="Сарказм" />
-  </node>
-  <node id="1" npcText="" />
-  <node id="2" npcText="Сам иди" />
-</dialog>
