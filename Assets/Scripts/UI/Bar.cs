@@ -1,6 +1,3 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,13 +5,26 @@ using UnityEngine.UI;
 public class Bar : MonoBehaviour
 {
     private Image _filler;
-    [SerializeReference] private IObservableCharacterCharacteristic iobs;
-    [SerializeField] private IObservableCharacterCharacteristic ios;
+    
+    [SerializeField] private CharacterCharacteristic _targetValue;
 
     private void Awake()
     {
         _filler = GetComponent<Image>();
     }
-    
-    
+
+    private void OnEnable()
+    {
+        _targetValue.AmountChangedEvent += OnAmountChangedEvent;
+    }
+
+    private void OnDisable()
+    {
+        _targetValue.AmountChangedEvent -= OnAmountChangedEvent;
+    }
+
+    private void OnAmountChangedEvent(int currentAmount)
+    {
+        _filler.fillAmount = _targetValue.NormalizedAmount;
+    }
 }

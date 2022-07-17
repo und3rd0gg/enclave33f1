@@ -1,4 +1,3 @@
-﻿public class Stamina : CharacterBarCharacteristic
+﻿public class Stamina : CharacterCharacteristic
 {
-    
 }
